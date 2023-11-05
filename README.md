@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anadhokare
+- 👋 Hi, I’m Akanksha Dhokare
 - 👀 I’m interested in ...coding, collaborationg with new people
 - 🌱 I’m currently learning ...DSA, c++, algorithm, competitive programming
 - 💞️ I’m looking to collaborate on ...coding projects
